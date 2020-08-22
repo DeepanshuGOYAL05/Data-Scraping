@@ -5,6 +5,12 @@
 #run file using the command, node TimeDataScrap.js
 #In Postamn hit the url, https://localhost:8082/getTimeStories
 #You will get the data like this:
+ 
+ 
+ 
+ 
+ 
+ 
  [
     {
         "title": "“Anarchy, Madness, and Chaos”: How Trump Plans to Counter the Democrats' Convention Message of Hope",
